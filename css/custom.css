@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar .nav-link.active {
+    color: #fff !important;
+    background-color: #4d90fe!important;
+}
+
+#hero-area .contents h2 {
+   
+    font-size: 32px;
+    font-size: 2.25rem;
+    font-weight: 600;
+    background: rgba(255,255,255,0.5);
+    display: table;
+    width: auto;
+    color: #1E1E1E;
+    padding: 5px;
+    
+}
+
+.facts-item h1{
+	font-size: 18px;
+	font-weight: 400;
+}
+.acerca{
+	font-size: 18px;
+	text-align: justify;
+}
+.section-header .lines {
+    margin: auto;
+    width: 70px;
+    position: relative;
+    border-top: 2px solid #4d90fe!important;
+    margin-top: 15px;
+}
+
+.back-to-top i { 
+	background-color: #4d90fe!important;
+}
+	
+#hero-area .contents p {
+	
+	font-size: 26px!important;
+    font-size: 2.25rem;
+    font-weight: 600;
+    background: rgba(255,255,255,0.5);
+    display: table;
+    width: auto;
+    color: #212020!important;
+    padding: 5px;
+    margin: 5px 0 0px;
+}
+#hero-area .contents span{
+	color: rgba(7,140,249,1.00);
+	font-weight: bold;
+	font-size: 24px;
+}
+

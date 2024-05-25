@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.parental-a {
+	padding: 40px 25px 40px 25px;
+	float: none;
+	
+}
+
+.parental-a p {
+	font-size: 14pt;
+text-align: justify;
+	
+	}
+.parental-a h3 {
+	font-size: 18pt;	
+	}
+.parental-a h4 {
+	font-size: 16pt;	
+	}
+.alinearimg {
+	align-content: center;
+	text-align: center;
+}
+
+.proteccion-infantil{
+	font-size: 10pt;
+}
